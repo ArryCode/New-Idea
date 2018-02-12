@@ -1,0 +1,7 @@
+**Member:Chen Jinyu (³Â¾¢Óî)**
+
+Junior undergraduate student of Qianhu College, Nanchang University, male, 20 years, majoring in Electical Engineering and Automation.
+
+Although I am majored in Electrical Engineering, I have taken serveral lessons about computer science like C++ programming, discrete mathematics, data structure and etc. I have a great interest in machine learing, especially in image identification. Since 2017, I started getting torch with high performance computers, and tried to make some experiments. After the study during this time, I have a basic understanding of artificial intelligence. I also master the usage of Tensorflow, which is a deep learning framework made by Google. With the help of Tensorflow, I reproduced many wonderful models on imagenet and I am familiar with the structural features of various convolutional neural networks right now. Besides, I studied some filtering technology and programed a simple software.
+
+In the past years, I also got much experience by participating many competitions and won some prizes like Honorable Mention in 2017 American Mathematical Contest in Modeling and the second class in China Undergraduate Mathematical Contest in Modeling. 

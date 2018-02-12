@@ -1,0 +1,306 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.12.11)  11 FEB 2018 23:49
+entering extended mode
+**C:/Users/Administrator/Desktop/æ–°å»ºæ–‡ä»¶å¤¹/Proposal.tex
+(C:/Users/Administrator/Desktop/æ–°å»ºæ–‡ä»¶å¤¹/Proposal.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\latex\base\size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen103
+)
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\UserData\tex\latex\blindtext\blindtext.st
+y
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\latex\tools\xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count87
+\c@Blindtext=\count88
+\c@blind@countparstart=\count89
+\blind@countxx=\count90
+\blindtext@numBlindtext=\count91
+\blind@countyy=\count92
+\c@blindlist=\count93
+\c@blindlistlevel=\count94
+\c@blindlist@level=\count95
+\blind@listitem=\count96
+\c@blind@listcount=\count97
+\c@blind@levelcount=\count98
+\blind@mathformula=\count99
+\blind@Mathformula=\count100
+\c@blind@randomcount=\count101
+\c@blind@randommax=\count102
+\c@blind@pangramcount=\count103
+\c@blind@pangrammax=\count104
+)
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+) (E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\UserData\tex\latex\subfigure\subfigure.st
+y
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen106
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen107
+\subfiglabelskip=\skip46
+\c@subfigure=\count106
+\c@lofdepth=\count107
+\c@subtable=\count108
+\c@lotdepth=\count109
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\UserData\tex\latex\subfigure\subfigure.cf
+g)
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\UserData\tex\latex\listings\listings.sty
+\lst@mode=\count110
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count111
+\lst@currlwidth=\dimen108
+\lst@column=\count112
+\lst@pos=\count113
+\lst@lostspace=\dimen109
+\lst@width=\dimen110
+\lst@newlines=\count114
+\lst@lineno=\count115
+\lst@maxwidth=\dimen111
+
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\UserData\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count116
+\lst@skipnumbers=\count117
+\lst@framebox=\box27
+)
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\UserData\tex\latex\listings\listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+ (C:\Users\Administrator\Desktop\æ–°å»ºæ–‡ä»¶å¤¹\Proposal.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count118
+\scratchdimen=\dimen112
+\scratchbox=\box28
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen113
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
+\everyMPtoPDFconversion=\toks17
+)
+\c@lstlisting=\count124
+Missing character: There is no ¡ in font cmbx12!
+Missing character: There is no ¯ in font cmbx12!
+Missing character: There is no ¡ in font cmbx12!
+Missing character: There is no ¯ in font cmbx12!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+ [1
+
+{E:/1ToolSoftware/CTeX_2.9.2.164/CTEX/UserData/pdftex/config/pdftex.map{Unicode
+.sfd}{UGBK.sfd}}] [2]
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 55.
+
+Overfull \hbox (2.54733pt too wide) in paragraph at lines 57--57
+[]\OT1/cmr/m/n/10 Energy| 
+ []
+
+
+Overfull \hbox (15.98027pt too wide) in paragraph at lines 55--63
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 76.
+(E:\1ToolSoftware\CTeX_2.9.2.164\CTEX\MiKTeX\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 76.
+ [3]
+[4]
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Á in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Á in font cmr10!
+ [5] <Fig1.png, id=22, 419.5675pt x 463.7325pt>
+File: Fig1.png Graphic file (type png)
+ <use Fig1.png>
+Package pdftex.def Info: Fig1.png used on input line 130.
+(pdftex.def)             Requested size: 227.62204pt x 251.57935pt.
+ [6] [7 <C:/Users/Administrator/Desktop/æ–°å»ºæ–‡ä»¶å¤¹/Fig1.png>]
+Overfull \hbox (5.6394pt too wide) in paragraph at lines 141--142
+[]\OT1/cmr/m/n/10 The pro-jec-tion of dis-crete molecules is s-e-lect-ed by man
+-u-al or semi-automatic
+ []
+
+[8] <Fig2.png, id=35, 625.33624pt x 763.85374pt>
+File: Fig2.png Graphic file (type png)
+ <use Fig2.png>
+Package pdftex.def Info: Fig2.png used on input line 160.
+(pdftex.def)             Requested size: 284.52756pt x 347.55399pt.
+ [9]
+Overfull \hbox (26.154pt too wide) in paragraph at lines 188--188
+[]\OT1/cmr/m/n/10 Could not find MPI[]C (miss-ing: MPI[]C[]LIBRARIES MPI[]C[]IN
+CLUDE[]PATH) 
+ []
+
+[10 <C:/Users/Administrator/Desktop/æ–°å»ºæ–‡ä»¶å¤¹/Fig2.png>]
+Overfull \hbox (3.00618pt too wide) in paragraph at lines 189--190
+[]\OT1/cmr/m/n/10 On some sys-tem-s y-ou ap-pear to need to change MPI[]DOUBLE[
+]COMPLEX
+ []
+
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ± in font cmr10!
+[11]
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ± in font cmr10!
+ <in2.png, id=49, 587.19376pt x 469.755pt>
+File: in2.png Graphic file (type png)
+ <use in2.png>
+Package pdftex.def Info: in2.png used on input line 275.
+(pdftex.def)             Requested size: 113.81102pt x 91.04634pt.
+
+<in8.png, id=50, 530.98375pt x 458.71375pt>
+File: in8.png Graphic file (type png)
+ <use in8.png>
+Package pdftex.def Info: in8.png used on input line 283.
+(pdftex.def)             Requested size: 113.81102pt x 98.32056pt.
+
+<in10.png, id=51, 421.575pt x 350.30875pt>
+File: in10.png Graphic file (type png)
+ <use in10.png>
+Package pdftex.def Info: in10.png used on input line 291.
+(pdftex.def)             Requested size: 113.81102pt x 94.56859pt.
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+ [12] [13 <C:/Users/Administrator/Desktop/æ–°å»ºæ–‡ä»¶å¤¹/in2.png> <C:/Users/Ad
+ministrator/Desktop/æ–°å»ºæ–‡ä»¶å¤¹/in8.png> <C:/Users/Administrator/Desktop/æ–
+°å»ºæ–‡ä»¶å¤¹/in10.png>]
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+ [14]
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no £ in font cmr10!
+Missing character: There is no º in font cmr10!
+ [15]
+Overfull \hbox (20.54515pt too wide) in paragraph at lines 330--331
+[]\OT1/cmr/m/n/10 Model train-ing: Ad-just some para-ments in con-fig.py, then 
+run train[]pm.py
+ []
+
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+[16] (C:\Users\Administrator\Desktop\æ–°å»ºæ–‡ä»¶å¤¹\Proposal.aux) ) 
+Here is how much of TeX's memory you used:
+ 2689 strings out of 495354
+ 38869 string characters out of 3182234
+ 108876 words of memory out of 3000000
+ 5867 multiletter control sequences out of 15000+200000
+ 5457 words of font info for 20 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,11n,32p,1909b,907s stack positions out of 5000i,500n,10000p,200000b,50000s
+<E:/1ToolSo
+ftware/CTeX_2.9.2.164/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:
+/1ToolSoftware/CTeX_2.9.2.164/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12
+.pfb><E:/1ToolSoftware/CTeX_2.9.2.164/CTEX/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmex10.pfb><E:/1ToolSoftware/CTeX_2.9.2.164/CTEX/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb><E:/1ToolSoftware/CTeX_2.9.2.164/CTEX/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi7.pfb><E:/1ToolSoftware/CTeX_2.9.2.164/CTEX/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><E:/1ToolSoftware/CTeX_2.9.2.164/CTEX/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr7.pfb><E:/1ToolSoftware/CTeX_2.9.2.164/CTEX/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/1ToolSoftware/CTeX_2.9.2.164
+/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Proposal.pdf (16 pages, 291135 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

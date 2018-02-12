@@ -1,0 +1,18 @@
+**Captain: Gao Cuiying（Female）**
+
+I'm a junior of Information Engineering College, Nanchang University. My major is digital media technology.
+
+In the past two and a half years, I have studied the basic courses of computer science and technology, such as operating system,data structure, computer network, computer organization and structure, etc.
+At the same time, I also learned some programming languages, such as C++, Java, Go, etc. In the application course, I learned database, Windows programming, website development and android development.
+I also learned some lessons about digital image processing and OpenGL programming. Since last October, I have started to study model optimization and learn basic mathematics knowledge such as probability theory and stochastic process. Then I studied operational research and began to try to model the problems in real life and optimize the model. At the same time, I came into contact with remote servers and high performance computing. In the following time, I will complete the competition with the team. After that I developed a strong interest in supercomputers and wanted to do more about them.
+
+Then I will learn more about model optimization knowledge and parallel computing knowledge. At the same time, in the process of learning and practicing, I will improve my programming ability and writing ability.
+
+在过去的两年半的大学课程中，我学习了计算机科学与技术专业的基础课程，如操作系统，数据结构，计算机网络等等。同时还学习了一些编程语言，如C++、Java、Go等。我还学习了关于数字图像处理和OpenGL编程的一些课程。从去年十月开始，我开始接触模型优化，深入学习概率论、随机过程等基本数学知识。随后学习运筹学，开始尝试对现实生活中问题进行建模，并对模型进行优化。与此同时，我接触了远程服务器和高性能计算。也就是在这时候，我对超级计算机产生了浓厚的兴趣，并且希望做更多这方面的工作。
+
+
+在接下来的时间，首先要带领团队做好竞赛。然后学习更多模型优化的知识和并性计算的知识，同时提高自己的编程能力和写作能力。
+
+
+
+
